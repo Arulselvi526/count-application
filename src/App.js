@@ -6,7 +6,7 @@ function App() {
   const [darkMode, setDarkMode] = useState(false);
 
   const increment = () => {
-    if (count < 20) {
+    if (count < 30) {
       setCount(count + 1);
     }
   };
