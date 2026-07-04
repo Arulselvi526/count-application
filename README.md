@@ -34,19 +34,3 @@ CSS3
 ## Learning Outcome
 
 This project helped me strengthen my understanding of React state management, event handling, conditional rendering, and responsive UI development.
-
-### Short LinkedIn Version
-
-Ready to Post
-
-⚛️ Built a Counter Application using React.js 
-
-This project helped me practice useState, event handling, conditional rendering, and responsive UI design. Features include Increment, Decrement, Reset, and Light/Dark Mode.
-
-💻 Tech Stack: React.js | JavaScript | CSS3
-
-🚀 Live Demo: your-link
-
-📂 GitHub: github-link
-
-#ReactJS #FrontendDeveloper #WebDevelopment #Vite #JavaScript #100DaysOfCode #MERNStack #OpenToWork
